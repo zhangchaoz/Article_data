@@ -5,4 +5,4 @@ The data file provided here includes all the measurement data used in this JGR-A
 
 Any questions should be addressed to Dr.Chaoliu Li (lichaoliu@itpcas.ac.cn)
 
-Updated June 12, 2020.
+Updated June 13, 2020.
